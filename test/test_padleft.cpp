@@ -1,6 +1,4 @@
 
-#include "catch.hpp"
-
 #include <padleft.hpp>
 
 using pl::pad_left;
